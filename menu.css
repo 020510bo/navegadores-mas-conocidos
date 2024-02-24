@@ -1,0 +1,35 @@
+.menu{
+    background-color: 	#000080	;
+    color: #f0ffff;
+    display: inline-block;
+    width: 45px;
+    padding: 40px 30px;
+    margin: 10px;
+    text-decoration: none;
+
+}
+.menu_1{
+    display: flex;
+    background-color: 	#a52a2a;
+    padding: 5% 10%;
+    width: 25%;
+    position: absolute;
+    top: 40%;
+    left: 25%;
+    
+}
+body{
+    background-color: 	#000000	;
+}
+.firsth1{
+    color: #f0ffff;
+    background-color: aqua;
+    padding: 30px 20px;
+}
+.section{
+    padding: 50px 50px;
+    display: inline-block;
+    position: absolute;
+    left: 40%;
+    top: 0%;
+}
